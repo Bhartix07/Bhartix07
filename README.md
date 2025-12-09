@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/bhartix07/bhartix07/blob/main/banner.png" alt="banner" width="100%" />
+  
 </p>
 
 <h1 align="center">Hi, I'm Bharti Kumari</h1>
 <h3 align="center">Full Stack Developer | AI & ML Learner | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Smart+%26+Impactful+Digital+Experiences;Full+Stack+%2B+AI+Developer;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Smart+%26+Impactful+Digital+Experiences;Building+Future-Ready+Web+%26+AI+Solutions;Always+Learning+%7C+Always+Building!" />
 </p>
 
 ---
@@ -15,32 +15,33 @@
 
 - 🎓 CSE Student @ Cochin University of Science and Technology (CUSAT), Kochi  
 - 🌍 Based in India  
-- 💻 MERN Stack | Java | Python | AI/ML Development  
-- ⛅ Cloud & Scalable System Explorer  
-- 🚀 Passionate about building real-world impactful solutions  
+- 💻 MERN Stack | Java | Python | AI/ML  
+- ☁️ Cloud & scalable architecture explorer  
+- 🚀 Passionate about creating useful, beautiful digital products  
 - 💡 Motto: *Code. Learn. Improve. Repeat.*
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 **Interactive Portfolio Website**  
-Modern personal branding website showcasing skills & experience  
-🔗 https://bhartix07.github.io/bharti-protofilo/  
+<div align="center">
 
-🔹 **GitHub Profile**  
-Continuously improving open-source contributions & learning  
-🔗 https://github.com/bhartix07  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚀 Portfolio Website | Personal branding website with modern UI hosted on GitHub Pages | HTML • CSS • JS |
+| 📘 GitHub Profile Page | Fully designed developer portfolio with stats, trophies, and analytics | Markdown • GitHub API |
 
-> New projects coming soon… 🚧
+</div>
+
+> New AI + Web projects coming soon… Stay tuned! 🔥
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements
 
-- Participated in **TATA Crucible Campus Quiz 2025 – Tata Group**  
-- AWS Cloud learning — Hands-on labs & workshops  
-- Active contributor on GitHub & coding platforms like LeetCode  
+- 🎖 TATA Crucible Campus Quiz 2025 Participant – Organized by Tata Group  
+- ☁ AWS Skill Builder hands-on labs completed  
+- 🧠 Active learner on GitHub & LeetCode  
 
 ---
 
@@ -76,14 +77,18 @@ Continuously improving open-source contributions & learning
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhartix07&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhartix07&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartix07&layout=compact&theme=radical&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=bhartix07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhartix07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhartix07&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -91,16 +96,14 @@ Continuously improving open-source contributions & learning
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhartix07&theme=dracula&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhartix07&theme=onestar&no-frame=true&no-bg=true&column=6" />
 </p>
 
 ---
 
 ## ✨ Developer Quote
 
-> *"Turning ideas into powerful digital experiences."*
-
----
+> "Turning ideas into powerful digital experiences."
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhartix07&label=Profile%20Views&color=00C9A7&style=flat" />
